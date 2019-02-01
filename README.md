@@ -1,6 +1,6 @@
 # GDTwitch
 
-Godot to IRC to Twitch interface.
+Godot 3.0 to IRC to Twitch interface.
 
 Runs a basic IRC bot that connects to the Twitch chat API.
 
