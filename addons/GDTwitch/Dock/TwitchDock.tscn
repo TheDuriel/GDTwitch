@@ -31,8 +31,8 @@ PRINT_LOG = false
 IRC_HOST = "irc.chat.twitch.tv"
 IRC_PORT = 6667
 IRC_CHANNEL = "theduriel"
-CLIENT_ID = "hr0qic1jzlcofwtwdki7kdp1eb2eb2"
-CLIENT_PASSWORD = "oauth:ozyv1qz6z8unzyp0ocrb45phqy0659"
+CLIENT_ID = "hr0qic1jzlcofwtw#####dp1eb2eb2"
+CLIENT_PASSWORD = "oauth:ozyv1q#####nzyp0ocrb45phqy0659"
 CLIENT_NICK = "GodotChan"
 CLIENT_REALNAME = ""
 
