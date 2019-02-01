@@ -11,4 +11,5 @@ Repo includes an example scene that allows connecting to various channels, sendi
 This project was inspired by https://github.com/drtwisted/godot-twicil and while following the same general logic, was written entirely from scratch with (hopefully) cleaner code.
 
 Sample Image:
-![Alt text](/GDTwitch/Example.png?raw=true "Title")
+
+![Alt text](/addons/GDTwitch/Example.png?raw=true "Title")
