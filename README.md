@@ -14,10 +14,10 @@ Usage:
 * Load the addon "GDTwitch"
 * Add the new "GDTwitch" node to a scene in your project.
 * Set:
-** CLIENT_PASSWORD to your OAuth token. https://twitchapps.com/tmi/
-** CLIENT_ID to your Twitch API id https://dev.twitch.tv/dashboard/apps/create
-** CLIENT_NICK to the name of your BOT account name. (As displayed in its channel URL.)
-** IRC_CHANNEL to the name of the streamer channel you want to connect to. (^See above.)
+* CLIENT_PASSWORD to your OAuth token. https://twitchapps.com/tmi/
+* CLIENT_ID to your Twitch API id https://dev.twitch.tv/dashboard/apps/create
+* CLIENT_NICK to the name of your BOT account name. (As displayed in its channel URL.)
+* IRC_CHANNEL to the name of the streamer channel you want to connect to. (^See above.)
 * Call start() on your new node.
 
 You can optionally enable PRINT_LOG to have the raw stream printed to your console.
