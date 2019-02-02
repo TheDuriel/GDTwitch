@@ -1,3 +1,4 @@
+tool
 extends PanelContainer
 
 onready var GDTwitch = $"GDTwitch"

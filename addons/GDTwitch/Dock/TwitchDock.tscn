@@ -27,12 +27,12 @@ script = ExtResource( 2 )
 __meta__ = {
 "_editor_icon": ExtResource( 3 )
 }
-PRINT_LOG = false
+PRINT_LOG = true
 IRC_HOST = "irc.chat.twitch.tv"
 IRC_PORT = 6667
 IRC_CHANNEL = "theduriel"
-CLIENT_ID = "hr0qic1jzlcofwtw#####dp1eb2eb2"
-CLIENT_PASSWORD = "oauth:ozyv1q#####nzyp0ocrb45phqy0659"
+CLIENT_ID = "###"
+CLIENT_PASSWORD = "oauth:####"
 CLIENT_NICK = "GodotChan"
 CLIENT_REALNAME = ""
 

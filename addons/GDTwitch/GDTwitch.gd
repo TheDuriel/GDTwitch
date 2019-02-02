@@ -10,13 +10,13 @@ signal message_recieved_raw #raw tags
 onready var Client = preload("./Helpers/Client.gd").new(self, PRINT_LOG)
 onready var Bot = preload("./Helpers/Bot.gd").new(self, Client)
 
-export(bool) var PRINT_LOG = false
+export(bool) var PRINT_LOG = true
 export(String) var IRC_HOST = "irc.chat.twitch.tv"
 export(int) var IRC_PORT = 6667
 
 export(String) var IRC_CHANNEL = "theduriel"
-export(String) var CLIENT_ID = "hr0qic1j####fwtwdki7kdp1eb2eb2"
-export(String) var CLIENT_PASSWORD = "oauth:ozyv1qz6z8un####ocrb45phqy0659"
+export(String) var CLIENT_ID = "###"
+export(String) var CLIENT_PASSWORD = "oauth:####"
 export(String) var CLIENT_NICK = "GodotChan"
 export(String) var CLIENT_REALNAME = ""
 
